@@ -36,4 +36,4 @@ type Book {
   }
 `;
 
-module.exports = typeDefs;
+module.exports = { typeDefs };
